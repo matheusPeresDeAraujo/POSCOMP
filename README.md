@@ -1,11 +1,5 @@
 # POSCOMP
 
-## Objetivo
->Organizar o material necessario para a realizacao da prova  
->Compartilhar com outros interessados  
->Melhoramento continuo  
-
-
 ## Disciplinas
 1. MATEMÁTICA 
     1. Álgebra Linear 
@@ -109,6 +103,7 @@
         13. Testes do Qui-Quadrado. 
         14. Testes de Comparações de Médias. 
         15. Regressão e Correlação.
+
 2. FUNDAMENTOS DA COMPUTAÇÃO
     1. Análise de Algoritmos
         1. Medidas de Complexidade, Análise Assintótica de Limites de Complexidade, Técnicas de Prova de Cotas Inferiores.
@@ -218,6 +213,7 @@
         10. Algoritmos do Menor Caminho. 
         11. Árvore Geradora.
         12. Ordenação Topológica.
+
 3. TECNOLOGIA DE COMPUTAÇÃO
     1. Banco de Dados
         1. Modelo de Dados. 
