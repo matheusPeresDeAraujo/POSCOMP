@@ -7,17 +7,35 @@
 
 
 ## Disciplinas
-1. MATEMÁTICA
-    1. Álgebra Linear
-	1. Sistemas de Equações Lineares: método de eliminação de Gauss para sistemas lineares. Espaços vetoriais.
-Subespaços. Bases. Somas Diretas. Introdução à Programação Linear. Transformações Lineares e Matrizes.
-Autovalores e Autovetores. Diagonalização. Espaços com Produto Interno. Bases Ortonormais. Projeções Ortogonais.
-Movimentos Rígidos. Método dos Mínimos Quadrados. Transformações em Espaços com Produto Interno. O Teorema
-da Representação para Funções Lineares. Adjunta de uma Transformação Linear. Operadores Simétricos, Unitários,
-Ortogonais e Normais. O Teorema Espectral. Formas Canônicas.
-Análise Combinatória
-Distribuição. Permutações. Combinações. Funções Geradoras Ordinárias e Exponenciais. Princípio de Inclusão e
-Exclusão. Enumeração de Partições, Grafos, Árvores e Redes. Enumeração por Recursão. Permutações com Posições
+1. MATEMÁTICA 
+    1. Álgebra Linear 
+        1. Sistemas de Equações Lineares: método de eliminação de Gauss para sistemas lineares.    
+        2. Espaços vetoriais.
+        3. Subespaços. 
+        4. Bases. 
+        5. Somas Diretas. 
+        6. Introdução à Programação Linear. 
+        7. Transformações Lineares e Matrizes.
+        8. Autovalores e Autovetores. Diagonalização. 
+        9. Espaços com Produto Interno. 
+        10. Bases Ortonormais. 
+        11. Projeções Ortogonais.
+        12. Movimentos Rígidos. 
+        13. Método dos Mínimos Quadrados. 
+        14. Transformações em Espaços com Produto Interno. 
+        15. O Teorema da Representação para Funções Lineares. 
+        16. Adjunta de uma Transformação Linear. 
+        17. Operadores Simétricos, Unitários, Ortogonais e Normais. 
+        18. O Teorema Espectral. Formas Canônicas.
+    2. Análise Combinatória 
+Distribuição. 
+Permutações. 
+Combinações. 
+Funções Geradoras Ordinárias e Exponenciais. 
+Princípio de Inclusão e Exclusão. 
+Enumeração de Partições, Grafos, Árvores e Redes. 
+Enumeração por Recursão. 
+Permutações com Posições
 Restritas.
 Cálculo Diferencial e Integral
 Limites de Funções e de Sequências. Funções Reais de uma Variável: Continuidade e Diferenciabilidade. Máximos e
