@@ -1,4 +1,4 @@
-Neste arquivo estarao dispostos os links para a construcao do material.
+# Material utilizado
 
 LINKS::
 
@@ -10,3 +10,6 @@ LINKS::
 
 > 002MOVIE
 > https://www.youtube.com/watch?v=jyVa45AmEsg
+
+> 001TXT
+> https://pt.wikipedia.org/wiki/Elimina%C3%A7%C3%A3o_de_Gauss
