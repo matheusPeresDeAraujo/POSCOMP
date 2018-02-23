@@ -61,7 +61,7 @@
 > -2	-4	-6	-20  
 > 0	1	2	10
 
-> Podemos substituir a linha 2 ao realizar a soma entre a linha 1 e a 2
+> Podemos substituir a linha 2 ao realizar a soma entre a linha 1 e a 2  
 > 2	3	4	10  
 > 0	-1	-2	-10  
 > 0	1	2	10
